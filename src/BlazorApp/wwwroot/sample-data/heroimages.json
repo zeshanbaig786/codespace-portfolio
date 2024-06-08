@@ -1,7 +1,7 @@
 [
   {
     "name": "home",
-    "src": "images/woman-with-tablet.jpg",
+    "src": "images/2.jpg",
     "alt": "woman with glasses holding a tablet"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "name": "portfolio",
-    "src": "images/design-desk.jpeg",
+    "src": "images/profile.png",
     "alt": "desktop with books and laptop"
   }
 ]

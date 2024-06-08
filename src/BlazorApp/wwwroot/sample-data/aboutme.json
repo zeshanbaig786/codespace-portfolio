@@ -1,12 +1,13 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I'm a Innovative Senior Software Developer with Expertise in C#, ASP.Net, MS SQL, MVC Secure Communication and Data Protection",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "ASP.NET Core",
+    "Entity Framework and LINQ",
+    "MS SQL Server Management and Optimization",
+    "DevExpress Controls",
+    "JavaScript, HTML, CSS, Bootstrap",
+    "Secure Communication Protocols (TLS, SSL)",
+    "Agile Methodologies and Project Management"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "With over a decade of experience as a Senior Software Developer and Team Lead, I specialize in designing and implementing innovative software solutions with a strong focus on Microsoft technologies. My expertise includes developing secure communication applications, dynamic dashboards, and comprehensive management systems using ASP.NET Core, WinForms, MS SQL Server, and front-end technologies like JavaScript, HTML, CSS, and Bootstrap. "
 }
